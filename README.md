@@ -1,3 +1,3 @@
 # jsdom-challenge-
-10 smale project to practice the handling the DOM with JavaScript
+smale projects to practice  handling the DOM with JavaScript
 
